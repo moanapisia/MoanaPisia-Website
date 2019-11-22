@@ -1,6 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Moana Pisia's Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+I am interested in becoming a strength and conditioning coach because I am passionate about helping people become a better version of themselves.
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+I look forward to helping make a difference in people's lives.
